@@ -1,0 +1,2 @@
+# Data-Sci-ML-Python-Analise-Credito-Varejo
+Projeto de análise de crédito aplicando algoritmos de machine learning de classificação por meio de Python, Pandas e SKLearn. Objetivando publicação via API do Microsoft Azure Machine Learning para utilização em aplicação de varejo.
